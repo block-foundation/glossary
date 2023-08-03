@@ -3,12 +3,17 @@
 * **Atomic Swaps**: These are smart contracts that enable exchanges from one cryptocurrency to another without using intermediaries.
 * **Blockchain**: A system of recording information in a manner that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
 * **Blockchain Explorer**: An online tool to view all transaction, past and current, on the blockchain.
+* **Building Information Modeling (BIM))**: A digital representation of physical and functional characteristics of a facility. It's a shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle.
 * **Consensus Mechanism**: A process used in computer systems to achieve agreement on a single data value among distributed processes or systems. Consensus mechanisms are essential in blockchain systems for validating transactions.
-* **Cryptocurrency**: A type of digital or virtual currency that uses cryptography for security and operates independently of a central bank.
+* **Creator Economy**: A class of businesses built by independent content creators, curators, and community builders including social media influencers, bloggers, and videographers, across various platforms.
+* **Cryptocurrency**: A digital or virtual form of currency that uses cryptography for security. It's decentralized and based on blockchain technology.
 * **Cryptographic Hash Function**: A mathematical algorithm that takes input (or 'message') and returns a fixed-size string of bytes. The output is typically a 'digest' that is unique to each unique input. Hash functions are foundational to blockchain technology.
-* **dApp (Decentralized Application)**: An application that runs on a decentralized network, avoiding failures from a central point. They are typically open-source and leverage blockchain technology.
+* **Cyberspace**: A term coined by William Gibson in his novel Neuromancer, it refers to the digital universe created by networked computers. It's a widespread, interconnected digital technology.
+* **Decentralized Application (dApp))**: An application that runs on a decentralized network, avoiding failures from a central point. They are typically open-source and leverage blockchain technology.
+* **Decentralized Autonomous Corporation (DAC))**: This refers to an organization that is run by rules encoded as computer programs called smart contracts, controlled by shareholders and not influenced by a central government.
 * **Decentralized Autonomous Organization (DAO)**: This is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
 * **Decentralized Finance (DeFi)**: A blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments. Instead, it utilizes smart contracts on blockchains.
+* **Digital Currency**: A type of currency that is only available in digital or electronic form. It exhibits properties similar to physical currencies but allows for instantaneous transactions and borderless transfer-of-ownership.
 * **Digital Identity**: It is an online or networked identity adopted or claimed in cyberspace by an individual, organization, or electronic device.
 * **Distributed Ledger Technology (DLT)**: This is a digital system for recording the transaction of assets. The transactions and their details are recorded in multiple places at the same time.
 * **Double Spend Problem**: This is a potential issue with digital currencies where a user can spend the same amount twice, creating fraudulent transactions. Blockchain technology solves the double spend problem through its decentralized consensus mechanisms.
@@ -25,7 +30,8 @@
 * **Mechanism Design**: A field in game theory that studies how to design a game or scenario in order to achieve desired outcomes, given that the participants might behave strategically. 
 * **Merkle Trees**: They are a fundamental part of blockchain technology. A Merkle tree is a structure that allows for efficient and secure verification of content in a large body of data.
 * **Metaverse**: A virtual reality space where users can interact with a computer-generated environment and other users. This technology is expected to play a significant role in social, commercial, and creative interactions in the future.
-* **Mining**: The process through which new blocks are added to the blockchain, resulting in the release of new cryptocurrency. 
+* **Mining**: The process through which new blocks are added to the blockchain, resulting in the release of new cryptocurrency.
+* **Nomic**: A game in which the rules of the game, including the rules for changing the rules, are decided and modified by the players as part of gameplay.
 * **Non-Fungible Tokens (NFTs)**: Cryptographic assets on blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded on a like-for-like basis (hence, non-fungible). In the context of real estate, NFTs can represent ownership of a specific, unique piece of property.
 * **Open Source Software**: Computer software released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. Open source software promotes collaboration and transparency.
 * **Oracles**: Entities that provide smart contracts with external information. They serve as a bridge between blockchain and the real world.
@@ -37,6 +43,7 @@
 * **Proof-of-Work (PoW)**: A type of consensus algorithm in a blockchain network where miners solve computationally intensive puzzles to validate transactions and create new blocks.
 * **Public Blockchain**: A blockchain network where any individual can join or leave at any time without permissions. These blockchains are more decentralized but also can be slower and less efficient.
 * **Public/Private Key**: A cryptographic system involving two keys, with the private key remaining known only to the user while the public key is available to others. In the context of cryptocurrencies, this allows users to securely transact with one another.
+* **Quadratic Payments**: A system that allows people to fund public goods while preventing undue influence by large contributors. The cost of contribution becomes progressively more expensive, encouraging a large number of small contributions.
 * **Quadratic Voting**: A method of collective decision-making in which a participant votes not just for or against an issue, but also expresses how strongly they feel about it. This is done by allocating a number of votes to that issue, with the cost of votes increasing quadratically.
 * **Reverse Game Theory**: An alternative term for mechanism design. Rather than taking the rules of the game as given and predicting outcomes, it asks what rules should we design to achieve a desired outcome.
 * **Scalability**: Refers to the ability of a system, network, or process to handle a growing amount of work in a capable manner.
@@ -44,14 +51,17 @@
 * **Sharding**: A scalability technique where the blockchain is divided into smaller parts, or shards, that can process transactions and smart contracts separately.
 * **Sidechains**: These are separate blockchain ledgers derived from a primary blockchain and can operate independently of the primary blockchain. They enable different blockchains to interact with one another and offer more efficient data processing methods.
 * **Smart Contract**: Self-executing contracts with the agreement terms directly written into lines of code. These are programs that run when predetermined conditions are met and are stored on a blockchain.
+* **Social 3.0**: This term describes a future phase of social networks characterized by decentralized, user-owned data and interoperability between platforms. It's closely associated with the principles of Web 3.0.
 * **Soft Fork**: A type of protocol upgrade that is backward compatible, which means non-upgraded nodes can still participate in verifying transactions.
 * **Solidity**: This is a programming language used for implementing smart contracts on various blockchain platforms, especially on Ethereum.
+* **Spatial Web**: A computing environment that exists in three-dimensional space—a fusion of real and virtual realities—enabled via billions of connected devices and accessed through the interfaces of virtual and augmented reality.
 * **Staking**: The act of participating in a Proof-of-Stake (PoS) consensus mechanism by holding and "staking" a cryptocurrency in a wallet to support operations such as block validation, security, and governance on a blockchain network.
 * **Stablecoin**: A type of cryptocurrency that is designed to maintain a stable value, as opposed to highly volatile cryptocurrencies like Bitcoin. Stablecoins are often pegged to a reserve of assets.
 * **Sustainability**: In the context of real estate, this term refers to constructing and managing buildings in ways that are environmentally responsible and resource-efficient, from siting to design, construction, operation, maintenance, renovation, and deconstruction.
 * **Tokenization**: The process of converting rights to an asset into a digital token on a blockchain. This can be done with any asset, including real estate.
 * **Utility Token**: A type of cryptocurrency that provides users with access to a product or service, but does not represent ownership.
 * **Wallet**: In the context of cryptocurrency, a wallet is a digital place to store cryptocurrency tokens securely.
+* **Web 3.0**: Also known as the semantic web, it represents a future phase of the internet where information is connected in meaningful, machine-readable ways. It's often associated with the use of blockchain and decentralized systems.
 * **Wrapped Tokens**: These are cryptocurrencies hosted on the Ethereum blockchain that mirror the value of another asset.
 * **Yield Farming**: Also referred to as liquidity mining, yield farming is a way to generate rewards with cryptocurrency holdings, typically in the DeFi space. In simple terms, it means locking up cryptocurrencies and getting rewards.
 * **Zero Knowledge Proofs (ZKP)**: This is a cryptographic method which allows one party (the prover) to prove to another party (the verifier) that they know a specific piece of information, without revealing that information.

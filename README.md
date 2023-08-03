@@ -1,12 +1,18 @@
 # Block Foundation Glossary
 
+* **51% Attack**: This is a potential attack on the blockchain network, where more than half of the computing power comes from a single source. This allows them to prevent new transactions from gaining confirmations, halt payments between some or all users, and reverse transactions.
+* **Altcoin**: Refers to all cryptocurrencies other than Bitcoin. The term stands for "alternative to Bitcoin" and is used describe any cryptocurrency that isn't a Bitcoin.
+* **AirDrop**: The process of distributing a cryptocurrency token to the wallets of some users free of charge, usually for marketing purposes or rewards.
 * **Atomic Swaps**: These are smart contracts that enable exchanges from one cryptocurrency to another without using intermediaries.
+* **Bitcoin Improvement Proposals (BIP))**: These are the design documents for introducing features or updates to the Bitcoin network. The suggestions are proposed to the Bitcoin community for review.
 * **Blockchain**: A system of recording information in a manner that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
 * **Blockchain Explorer**: An online tool to view all transaction, past and current, on the blockchain.
 * **Building Information Modeling (BIM))**: A digital representation of physical and functional characteristics of a facility. It's a shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle.
+* **Cold Wallet/Storage**: It refers to a wallet which is completely offline and used for storing cryptocurrencies. This method is used to prevent unauthorized access, cyber hacks, and other types of vulnerabilities that a system connected to the internet is susceptible to.
 * **Consensus Mechanism**: A process used in computer systems to achieve agreement on a single data value among distributed processes or systems. Consensus mechanisms are essential in blockchain systems for validating transactions.
 * **Creator Economy**: A class of businesses built by independent content creators, curators, and community builders including social media influencers, bloggers, and videographers, across various platforms.
 * **Cryptocurrency**: A digital or virtual form of currency that uses cryptography for security. It's decentralized and based on blockchain technology.
+* **Cryptoeconomics**: A practical science that focuses on the design and characterization of these protocols. Cryptoeconomics is a practical discipline that focuses on the economic security guarantees that a network can offer, as long as certain assumptions hold about the behaviors of participants.
 * **Cryptographic Hash Function**: A mathematical algorithm that takes input (or 'message') and returns a fixed-size string of bytes. The output is typically a 'digest' that is unique to each unique input. Hash functions are foundational to blockchain technology.
 * **Cyberspace**: A term coined by William Gibson in his novel Neuromancer, it refers to the digital universe created by networked computers. It's a widespread, interconnected digital technology.
 * **Decentralized Application (dApp))**: An application that runs on a decentralized network, avoiding failures from a central point. They are typically open-source and leverage blockchain technology.
@@ -19,18 +25,23 @@
 * **Double Spend Problem**: This is a potential issue with digital currencies where a user can spend the same amount twice, creating fraudulent transactions. Blockchain technology solves the double spend problem through its decentralized consensus mechanisms.
 * **ERC-20**: This stands for Ethereum Request for Comments and 20 is the number assigned to this request. It's a specific set of functions which developers must use when coding the token. ERC-20 tokens are blockchain-based assets that have value and can be sent and received.
 * **Ethereum**: An open-source, blockchain-based platform that enables the creation of smart contracts and distributes them as decentralized applications (dApps). Ethereum also has a native cryptocurrency called Ether (ETH).
+* **Fiat Money**: Currency that a government has declared to be legal tender, but it is not backed by a physical commodity. The value of fiat money is derived from the relationship between supply and demand rather than the value of the material from which the money is made.
 * **Fractional Ownership**: The division of any asset into portions or shares. If the asset is expensive, such as real estate, multiple shareholders may own a portion of these shares, which allows them to enter the market at a lower price.
 * **Gas Fees**: A term used on the Ethereum platform to represent the cost of performing a transaction or executing a contract on the network.
 * **Hard Fork**: A type of protocol upgrade that isn't compatible with the older version. This means all users must update to the latest version to stay in consensus with the rest of the network.
+* **Hashrate**: The measure of computational power per second used when mining. A higher hash rate means increased opportunity for cryptocurrency mining and receiving block reward.
+* **HODL**: A type of passive investment strategy where you hold an investment for a long period of time, regardless of any changes in the price or markets. The term was created in 2013 in a Bitcoin forum when a user spelled "hold" wrong.
 * **Initial Coin Offering (ICO)**: An unregulated means by which a blockchain project can raise funds from interested parties. It's similar to an Initial Public Offering (IPO) in the non-digital world.
 * **Interoperability**: The ability of different information systems, devices, or applications to access, exchange, integrate, and cooperatively use data in a coordinated manner.
 * **KYC/AML**: Stands for "Know Your Customer" and "Anti-Money Laundering". These are regulatory standards in the financial industry to prevent illegal activities such as fraud and money laundering.
 * **Layer-2 Scaling Solutions**: These are technologies that increase the processing capacity of a blockchain (hence scaling) and reduce transaction fees. They operate on a secondary layer atop the primary blockchain (layer-1).
+* **Lightning Network**: A "second layer" payment protocol that operates on top of a blockchain. The term is usually used to refer to the Lightning Network for bitcoin, but it could be used to describe any layer 2 protocol for a cryptocurrency.
 * **Liquidity**: The degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.
 * **Mechanism Design**: A field in game theory that studies how to design a game or scenario in order to achieve desired outcomes, given that the participants might behave strategically. 
 * **Merkle Trees**: They are a fundamental part of blockchain technology. A Merkle tree is a structure that allows for efficient and secure verification of content in a large body of data.
 * **Metaverse**: A virtual reality space where users can interact with a computer-generated environment and other users. This technology is expected to play a significant role in social, commercial, and creative interactions in the future.
 * **Mining**: The process through which new blocks are added to the blockchain, resulting in the release of new cryptocurrency.
+* **Multisignature (Multi-Sig)**: An authorization system that requires more than one valid signatures—actually a private key, used in the context of cryptocurrencies to sign transactions—to successfully execute a transaction.
 * **Nomic**: A game in which the rules of the game, including the rules for changing the rules, are decided and modified by the players as part of gameplay.
 * **Non-Fungible Tokens (NFTs)**: Cryptographic assets on blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded on a like-for-like basis (hence, non-fungible). In the context of real estate, NFTs can represent ownership of a specific, unique piece of property.
 * **Open Source Software**: Computer software released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. Open source software promotes collaboration and transparency.
@@ -48,6 +59,7 @@
 * **Reverse Game Theory**: An alternative term for mechanism design. Rather than taking the rules of the game as given and predicting outcomes, it asks what rules should we design to achieve a desired outcome.
 * **Scalability**: Refers to the ability of a system, network, or process to handle a growing amount of work in a capable manner.
 * **Security Token**: A type of cryptocurrency that represents ownership in a real-world asset, such as real estate or a company's equity.
+* **Segregated Witness (SegWit)**: A protocol upgrade that changes the way data is stored. It was activated on bitcoin in August 2017.
 * **Sharding**: A scalability technique where the blockchain is divided into smaller parts, or shards, that can process transactions and smart contracts separately.
 * **Sidechains**: These are separate blockchain ledgers derived from a primary blockchain and can operate independently of the primary blockchain. They enable different blockchains to interact with one another and offer more efficient data processing methods.
 * **Smart Contract**: Self-executing contracts with the agreement terms directly written into lines of code. These are programs that run when predetermined conditions are met and are stored on a blockchain.
@@ -62,6 +74,7 @@
 * **Utility Token**: A type of cryptocurrency that provides users with access to a product or service, but does not represent ownership.
 * **Wallet**: In the context of cryptocurrency, a wallet is a digital place to store cryptocurrency tokens securely.
 * **Web 3.0**: Also known as the semantic web, it represents a future phase of the internet where information is connected in meaningful, machine-readable ways. It's often associated with the use of blockchain and decentralized systems.
+* **Whale**: In the context of cryptocurrencies, a whale is an entity with enough power to directly influence the price of that cryptocurrency by initiating large buy or sell orders.
 * **Wrapped Tokens**: These are cryptocurrencies hosted on the Ethereum blockchain that mirror the value of another asset.
 * **Yield Farming**: Also referred to as liquidity mining, yield farming is a way to generate rewards with cryptocurrency holdings, typically in the DeFi space. In simple terms, it means locking up cryptocurrencies and getting rewards.
 * **Zero Knowledge Proofs (ZKP)**: This is a cryptographic method which allows one party (the prover) to prove to another party (the verifier) that they know a specific piece of information, without revealing that information.

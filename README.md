@@ -1,0 +1,2 @@
+# glossary
+Block Foundation Glossary

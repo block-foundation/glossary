@@ -1,13 +1,28 @@
 # Block Foundation Glossary
 
-* **51% Attack**: This is a potential attack on the blockchain network, where more than half of the computing power comes from a single source. This allows them to prevent new transactions from gaining confirmations, halt payments between some or all users, and reverse transactions.
+## Introduction
+
+Welcome to the Block Foundation Glossary, a comprehensive resource that seeks to demystify the language and terms used in the blockchain, cryptocurrency, and digital real estate space. Whether you're a blockchain beginner or a seasoned cryptocurrency enthusiast, the definitions provided in this glossary are designed to offer a clear and concise understanding of the terminology used in this exciting and rapidly evolving field.
+
+From basic terms such as 'Blockchain' and 'Cryptocurrency' to more complex concepts like 'Decentralized Autonomous Organizations (DAOs)' and 'Zero Knowledge Proofs (ZKP)', this glossary covers a broad spectrum of topics. You'll find information on blockchain technology and its various applications, the world of cryptocurrencies and digital tokens, the workings of smart contracts, the nuances of consensus mechanisms, and much more.
+
+It's not just for those interested in the technical aspects either. The glossary also delves into areas such as the Creator Economy, Sustainability, and the Metaverse, reflecting the multifaceted impact blockchain technology and digital currencies are having on our world.
+
+The Block Foundation Glossary is more than just a list of definitions - it's a gateway into understanding the powerful technologies that are reshaping our world. As you navigate your way through this glossary, we hope it deepens your comprehension of these complex topics and sparks a curiosity to learn more. Whether you're a developer, investor, or simply a technology enthusiast, there's something here for everyone. Welcome to your journey into the universe of blockchain and beyond!
+
+## Terms
+
+* **51% Attack**: A situation where more than half of the computing power on a network is operated by a single individual or concentrated group, which gives them complete and total control over a network. Things that an entity with 51% of the computing power can do include halting mining, stopping or changing transactions, and double-spending coins.
 * **Altcoin**: Refers to all cryptocurrencies other than Bitcoin. The term stands for "alternative to Bitcoin" and is used describe any cryptocurrency that isn't a Bitcoin.
 * **AirDrop**: The process of distributing a cryptocurrency token to the wallets of some users free of charge, usually for marketing purposes or rewards.
+* **Asset-backed Tokens (ABT)**: Cryptographic tokens that represent a claim on an underlying asset, such as real estate. They allow for the division of real-world assets into tradable digital tokens.
 * **Atomic Swaps**: These are smart contracts that enable exchanges from one cryptocurrency to another without using intermediaries.
+* **Bag Holder**: A term borrowed from the stock market, it refers to an investor who holds a significant amount of a certain cryptocurrency that has decreased in value, often to the point where selling would not be beneficial.
 * **Bitcoin Improvement Proposals (BIP))**: These are the design documents for introducing features or updates to the Bitcoin network. The suggestions are proposed to the Bitcoin community for review.
 * **Blockchain**: A system of recording information in a manner that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
 * **Blockchain Explorer**: An online tool to view all transaction, past and current, on the blockchain.
 * **Building Information Modeling (BIM))**: A digital representation of physical and functional characteristics of a facility. It's a shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle.
+* **Bounty**: A sum of money offered as a reward for completing a task in the cryptocurrency world. Often used by new projects to incentivize actions such as finding software bugs, promoting the project on social media, etc.
 * **Cold Wallet/Storage**: It refers to a wallet which is completely offline and used for storing cryptocurrencies. This method is used to prevent unauthorized access, cyber hacks, and other types of vulnerabilities that a system connected to the internet is susceptible to.
 * **Consensus Mechanism**: A process used in computer systems to achieve agreement on a single data value among distributed processes or systems. Consensus mechanisms are essential in blockchain systems for validating transactions.
 * **Creator Economy**: A class of businesses built by independent content creators, curators, and community builders including social media influencers, bloggers, and videographers, across various platforms.
@@ -19,8 +34,11 @@
 * **Decentralized Autonomous Corporation (DAC))**: This refers to an organization that is run by rules encoded as computer programs called smart contracts, controlled by shareholders and not influenced by a central government.
 * **Decentralized Autonomous Organization (DAO)**: This is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
 * **Decentralized Finance (DeFi)**: A blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments. Instead, it utilizes smart contracts on blockchains.
+* **Decentralized Marketplaces**: These are peer-to-peer trading platforms facilitated by blockchain, where buyers and sellers can transact directly with each other. In real estate, decentralized marketplaces can significantly reduce the need for intermediaries, making the process cheaper and more efficient.
+* **Deed Tokenization**: The process of converting a real estate deed or title into a digital token on a blockchain. This can greatly reduce the time and complexity of title transfers and disputes.
 * **Digital Currency**: A type of currency that is only available in digital or electronic form. It exhibits properties similar to physical currencies but allows for instantaneous transactions and borderless transfer-of-ownership.
 * **Digital Identity**: It is an online or networked identity adopted or claimed in cyberspace by an individual, organization, or electronic device.
+* **Digital Twins**: In the context of real estate, this refers to a digital replica of physical assets (like properties or infrastructure) that exist in the physical world. Paired with blockchain, it ensures data integrity, enables secure transactions and paves the way for innovative applications.
 * **Distributed Ledger Technology (DLT)**: This is a digital system for recording the transaction of assets. The transactions and their details are recorded in multiple places at the same time.
 * **Double Spend Problem**: This is a potential issue with digital currencies where a user can spend the same amount twice, creating fraudulent transactions. Blockchain technology solves the double spend problem through its decentralized consensus mechanisms.
 * **ERC-20**: This stands for Ethereum Request for Comments and 20 is the number assigned to this request. It's a specific set of functions which developers must use when coding the token. ERC-20 tokens are blockchain-based assets that have value and can be sent and received.
@@ -52,8 +70,11 @@
 * **Proof-of-Authority (PoA)**: A consensus mechanism in a private blockchain which essentially gives one client (or a specific number of clients) with one particular private key the right to make all of the blocks in the blockchain.
 * **Proof-of-Stake (PoS)**: A type of consensus mechanism used by blockchain networks to achieve distributed consensus. It requires users to show ownership of a certain number of cryptocurrency units (the "stake") to create a new block of transactions.
 * **Proof-of-Work (PoW)**: A type of consensus algorithm in a blockchain network where miners solve computationally intensive puzzles to validate transactions and create new blocks.
+* **Property Token Exchange (PTX)**: A platform for buying and selling tokenized real estate. Such exchanges can create a liquid market for real estate properties that have typically been illiquid assets.
+* **Proptech**: Stands for Property Technology. While not exclusively blockchain-based, it's an umbrella term for the wave of technological innovations changing the way we research, rent, buy, and manage property.
 * **Public Blockchain**: A blockchain network where any individual can join or leave at any time without permissions. These blockchains are more decentralized but also can be slower and less efficient.
 * **Public/Private Key**: A cryptographic system involving two keys, with the private key remaining known only to the user while the public key is available to others. In the context of cryptocurrencies, this allows users to securely transact with one another.
+* **Real Estate Token (RET)**: A digital representation of ownership or equity in a real property, stored on the blockchain. RETs can be traded on specific platforms and can represent fractional ownership in properties.
 * **Quadratic Payments**: A system that allows people to fund public goods while preventing undue influence by large contributors. The cost of contribution becomes progressively more expensive, encouraging a large number of small contributions.
 * **Quadratic Voting**: A method of collective decision-making in which a participant votes not just for or against an issue, but also expresses how strongly they feel about it. This is done by allocating a number of votes to that issue, with the cost of votes increasing quadratically.
 * **Reverse Game Theory**: An alternative term for mechanism design. Rather than taking the rules of the game as given and predicting outcomes, it asks what rules should we design to achieve a desired outcome.
@@ -70,7 +91,9 @@
 * **Staking**: The act of participating in a Proof-of-Stake (PoS) consensus mechanism by holding and "staking" a cryptocurrency in a wallet to support operations such as block validation, security, and governance on a blockchain network.
 * **Stablecoin**: A type of cryptocurrency that is designed to maintain a stable value, as opposed to highly volatile cryptocurrencies like Bitcoin. Stablecoins are often pegged to a reserve of assets.
 * **Sustainability**: In the context of real estate, this term refers to constructing and managing buildings in ways that are environmentally responsible and resource-efficient, from siting to design, construction, operation, maintenance, renovation, and deconstruction.
+* **Token Burn**: The process of intentionally and permanently removing tokens from circulation, reducing the total supply, often to control the inflation rate of a cryptocurrency.
 * **Tokenization**: The process of converting rights to an asset into a digital token on a blockchain. This can be done with any asset, including real estate.
+* **Tokenized Real Estate**: The process of converting the ownership rights of a real estate asset into a digital token on a blockchain. This allows for fractional ownership, easier transfers of ownership, and the potential for a global pool of buyers and sellers.
 * **Utility Token**: A type of cryptocurrency that provides users with access to a product or service, but does not represent ownership.
 * **Wallet**: In the context of cryptocurrency, a wallet is a digital place to store cryptocurrency tokens securely.
 * **Web 3.0**: Also known as the semantic web, it represents a future phase of the internet where information is connected in meaningful, machine-readable ways. It's often associated with the use of blockchain and decentralized systems.

@@ -20,6 +20,7 @@
 ### Contents
 
 - [Introduction](#introduction)
+- [Terms](#terms)
 - [Colophon](#colophon)
 
 <br clear="both"/>
